@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O+j6q+KKSQCT9Ak+c2+Xgs2foEJiGXAbqQhieMaD5IA=",
+  "Source": "GeminiApi",
+  "BasePath": "_content/GeminiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

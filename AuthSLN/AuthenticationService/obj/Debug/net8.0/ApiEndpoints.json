@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthController",
+    "Method": "GetAppName",
+    "RelativePath": "Auth/getappname",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthenticationService.Models.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationService.Controllers.AuthController",
+    "Method": "SignUp",
+    "RelativePath": "Auth/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AuthenticationService.Models.DTOs.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Transports.Controllers.TransportsController",
+    "Method": "Get",
+    "RelativePath": "Transports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "xFAT_63E5ZsdXEVmw9QfC8YEm8gJO9btsS1sy6zFw9hCp7hMT2vijfsTlm42_rRYxOcmfFx61cvZePAXg-_N9gyVrzA3Ey8xRVuDJ_WjomZyS-en7n9G8Pd0HbAQPsOBfn9rMg6Ul7Lv2yQIjd3dmtARfzypVrvbIoyQ70_Kccd1OtOZE0g_aMzg2wdRbZrfzswrvLoWVMLOEUzUTOg8yV5gGQXdPRe9sUP6JAOX60ylKADDBb3dYYRqsZ-7S3Hlk2A5VVh30jUeU4KVkkwa90gZrJ6bKs_6inpBaSLJhRo6K9jaVTeFyzMaJwrf8X86Y0VRSpD1QdPEyS_iMoi_gw",
+      "kid": "Sj/v9GPUa9DTke9jmJILaQN8QqV5tFuzuCiMal2tY4g="
+    }
+  ]
+}

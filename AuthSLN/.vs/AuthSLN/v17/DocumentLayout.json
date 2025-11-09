@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\authenticationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|d:\\offline_projects\\gemini\\authsln\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2B26B-5B7A-4E5E-B0B3-2B6C6D4F3A2D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthenticationService\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:48:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T16:46:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\User.cs",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Models\\User.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:39:59.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T16:22:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIAwwFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:11:03.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
+              "ToolTip": "D:\\OffLine_Projects\\Gemini\\AuthSLN\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "AuthenticationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:10:56.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

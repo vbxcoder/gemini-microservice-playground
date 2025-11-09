@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Transports",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Transports": {
+      "get": {
+        "tags": [
+          "Transports"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
