@@ -1,3 +1,0 @@
-
-# Keep secret keys out of source control
-jwt_private.pem
