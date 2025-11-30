@@ -1,0 +1,13 @@
+filebeat.inputs:
+- type: filestream
+  paths:
+    - /var/lib/docker/containers/*/*.log
+  processors:
+    - add_docker_metadata: ~
+  json:
+    keys_under_root: true
+    overwrite_keys: true
+    message_key: 'log'
+
+output.elasticsearch:
+  hosts: ["elasticsearch:9200"]

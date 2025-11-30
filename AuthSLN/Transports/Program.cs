@@ -1,3 +1,5 @@
+using StackExchange.Redis;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,8 +9,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var redisConnectionString = builder.Configuration["RedisConnectionString"];
+if (string.IsNullOrEmpty(redisConnectionString))
+{
+    throw new Exception("Redis connection string is not configured.");
+}
+builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect(redisConnectionString));
+
 var certPath = builder.Configuration["Certificate:Path"];
 var certPassword = builder.Configuration["Certificate:Password"];
+
 
 if (string.IsNullOrEmpty(certPath) || string.IsNullOrEmpty(certPassword))
 {
